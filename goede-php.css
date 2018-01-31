@@ -1,0 +1,16 @@
+*{
+	margin:0 auto;
+}
+#groet{
+ font-size: 70px;
+ position:absolute;
+left: 500px;
+top:100px;
+
+}
+#tijd{
+ font-size: 50px;
+ position:absolute;
+left: 550px;
+top:200px;
+}
